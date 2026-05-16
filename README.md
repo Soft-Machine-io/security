@@ -33,7 +33,3 @@ Key commitments:
 - **Triage within 7 days**
 - Good-faith research conducted under this policy is **authorized** and covered
   by [disclose.io](https://disclose.io)-standard safe harbor.
-
-We do not currently run a paid bounty, but we publicly credit every valid
-report unless you ask otherwise. Thank you for helping keep Soft Machine and
-its users safe.
