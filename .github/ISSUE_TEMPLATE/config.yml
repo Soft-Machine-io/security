@@ -1,0 +1,13 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🛡️ Report a Vulnerability (Private)
+    url: https://github.com/Soft-Machine-io/security/security/advisories/new
+    about: >-
+      Report security vulnerabilities privately via GitHub Security Advisories.
+      Do NOT open a public issue with vulnerability details — public issues are
+      disabled here on purpose.
+  - name: 📋 Security Policy
+    url: https://github.com/Soft-Machine-io/security/blob/main/SECURITY.md
+    about: >-
+      Read the disclosure policy first — scope, rules of engagement, safe
+      harbor, response SLAs, and the coordinated-disclosure timeline.
